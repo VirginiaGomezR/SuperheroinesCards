@@ -1,0 +1,12 @@
+ .card_picture{
+        width: 100%;
+    }
+
+.card_bio{
+    padding:0px 10px 10px 10px;
+    font-size: 12px;
+}
+
+.card_age{
+    text-align: center;
+}
