@@ -1,7 +1,7 @@
 ## Installation
 
-npm install react-spring
-npm install react-use-gesture
+### `npm install react-spring`
+### `npm install react-use-gesture`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
