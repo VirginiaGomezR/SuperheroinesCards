@@ -35,13 +35,13 @@ export default [
       pic: "https://girltalkhq.com/wp-content/uploads/2018/10/image8-e1539800491454.png",
       name: "Marie Van Brittan Brown",
       age: "(1922-1999)",
-      bio: "Junto a su esposo, Marie ideó un sistema de vigilancia. Presentaron una patente en 1966. Su hija Norma Brown patentó un dispositivo contra la violación en 1998."
+      bio: "Junto a su esposo, Marie ideó un sistema de vigilancia doméstico. Presentaron una patente en 1966. Su hija Norma Brown patentó un dispositivo contra la violación en 1998."
     },
     {
       pic: "https://girltalkhq.com/wp-content/uploads/2018/10/image9-e1539800477577.png",
       name: "Stephanie Kwolek",
       age: "(1923-2014)",
-      bio: "Descubrió el Kevlar en 1965. El Kevlar es cinco veces más resistente que el acero, el personal policial de todo el mundo lo ha usado desde que entró en producción en masa en 1971."
+      bio: "Descubrió el Kevlar en 1965. El Kevlar es cinco veces más resistente que el acero, la policía de todo el mundo lo ha usado desde que entró en producción en masa en 1971."
     },
     {
       pic: "https://girltalkhq.com/wp-content/uploads/2018/10/image10-e1539800466716.png",

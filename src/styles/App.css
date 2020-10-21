@@ -45,5 +45,5 @@ body {
   max-height: 570px;
   will-change: transform;
   border-radius: 10px;
-  box-shadow: 0 12.5px 100px -10px rgba(73, 50, 67, 0.3), 0 10px 10px -10px rgba(73, 50, 67, 0.3);
+  box-shadow: 0 12.5px 100px -10px rgba(112, 71, 116, 0.3), 0 10px 10px -10px rgba(112, 71, 116, 0.3);
 }
