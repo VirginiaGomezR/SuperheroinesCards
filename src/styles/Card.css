@@ -1,12 +1,19 @@
- .card_picture{
+.card_picture{
         width: 100%;
     }
 
 .card_bio{
     padding:0px 10px 10px 10px;
-    font-size: 12px;
+    font-size: 0.65em;
 }
 
 .card_age{
     text-align: center;
+}
+
+ @media all and (min-width: 768px) {
+    .card_bio{
+        font-size: 0.75em;
+
+  }
 }
