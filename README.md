@@ -1,17 +1,25 @@
-STEM Superheroines es una campaña de Currys PC World y Microsoft Surface que pone en valor las aportaciones de 8 mujeres que se convirtieron en referencia en el mundo de la ciencia, tecnología, ingeniería y matemáticas (STEM). Trata de acercárnoslas a través de imágenes y de una pequeña referencia, de modo que su ejemplo sirva de referencia.
+## Superheroines Cards 💜
 
-## Installation
+STEM Superheroines es una campaña de Currys PC World y Microsoft Surface que pone en valor las aportaciones de 8 mujeres que se convirtieron en referencia en el mundo de la ciencia, tecnología, ingeniería y matemáticas (STEM). El objetivo de este proyecto es darles visibilidad a través de una serie de cartas creadas con react y react-spring para las animaciones. Recogen una imágen y una pequeña referencia de cada una de las mujeres.
 
-### `npm install react-spring`
-### `npm install react-use-gesture`
+## Herramientas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React
+- React Spring
+- React Use Gesture
+- JavaScript
+- Visual Studio Code
 
-## Available Scripts
+## ¿Cómo arrancar el proyecto?
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clonar el repositorio en tu ordenador
+```
+$ git clone https://github.com/VirginiaGomezR/SuperheroinesCards.git
+```
+2. Instalar dependencias
+```
+$ npm install
+```
+3. Arrancar en modo desarrollo: 
+````
+$ npm start
